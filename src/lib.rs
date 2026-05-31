@@ -1,3 +1,4 @@
+#![deny(unsafe_code)]
 #![allow(clippy::needless_range_loop, clippy::assign_op_pattern, clippy::new_without_default, clippy::collapsible_if)]
 
 pub mod matrix;
