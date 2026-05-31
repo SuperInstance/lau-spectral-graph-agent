@@ -2,6 +2,8 @@
 name = "lau-spectral-graph-agent"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-spectral-graph-agent"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
